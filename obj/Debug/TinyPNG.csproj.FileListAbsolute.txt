@@ -1,0 +1,6 @@
+C:\TAPPI\Utilities\TinyPNG\bin\Debug\TinyPNG.exe.config
+C:\TAPPI\Utilities\TinyPNG\bin\Debug\TinyPNG.exe
+C:\TAPPI\Utilities\TinyPNG\bin\Debug\TinyPNG.pdb
+C:\TAPPI\Utilities\TinyPNG\obj\Debug\TinyPNG.exe
+C:\TAPPI\Utilities\TinyPNG\obj\Debug\TinyPNG.pdb
+C:\TAPPI\Utilities\TinyPNG\obj\Debug\TinyPNG.csprojResolveAssemblyReference.cache
